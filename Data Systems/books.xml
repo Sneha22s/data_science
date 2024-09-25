@@ -1,0 +1,50 @@
+<books>
+	<book>
+		<Title>The Great Gatsby</Title>
+		<Author>F. Scott Fitzgerald</Author>
+		<ISBN>978-0743273565</ISBN>
+		<Publication_date>1925</Publication_date>
+		<Genre>Fiction, Drama</Genre>
+		<Publisher>Scribner</Publisher>
+	</book>
+	<book>
+		<Title>1984</Title>
+		<Author>George Orwell</Author>
+		<ISBN>978-0451524935</ISBN>
+		<Publication_date>1949</Publication_date>
+		<Genre>Dystopian, Political</Genre>
+		<Publisher>Penguin</Publisher>
+	</book>
+	<book>
+		<Title>To Kill a Mockingbird</Title>
+		<Author>Harper Lee</Author>
+		<ISBN>978-0060935467</ISBN>
+		<Publication_date>1960</Publication_date>
+		<Genre>Fiction, Legal Drama</Genre>
+		<Publisher>Harper Perennial Modern</Publisher>
+	</book>
+	<book>
+		<Title>Brave New World</Title>
+		<Author>Aldous Huxley</Author>
+		<ISBN>978-0060850524</ISBN>
+		<Publication_date>1932</Publication_date>
+		<Genre>Dystopian, Sci-Fi</Genre>
+		<Publisher>Harper Perennial Modern</Publisher>
+	</book>
+	<book>
+		<Title>Animal Farm</Title>
+		<Author>George Orwell</Author>
+		<ISBN>978-0451526342</ISBN>
+		<Publication_date>1945</Publication_date>
+		<Genre>Political Satire</Genre>
+		<Publisher>Penguin</Publisher>
+	</book>
+	<book>
+		<Title>Pride and Prejudice</Title>
+		<Author>Jane Austen</Author>
+		<ISBN>978-0141439518</ISBN>
+		<Publication_date>1813</Publication_date>
+		<Genre>Romance, Fiction</Genre>
+		<Publisher>Penguin Classics</Publisher>
+	</book>
+</books>

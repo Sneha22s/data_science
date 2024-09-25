@@ -1,0 +1,16 @@
+{
+	"people": [
+		{
+			"name":"Alice Summers",
+			"age":28
+		},
+		{
+			"name": "John Blake",
+			"age":35
+		},
+		{
+			"name": "Maria Lopez",
+			"age":42
+		}
+	]
+}

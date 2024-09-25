@@ -1,0 +1,14 @@
+<people>
+	<person>
+		<name>Alice Summers</name>
+		<age>28</age>
+	</person>
+	<person>
+		<name>John Blake</name>
+		<age>35</age>
+	</person>
+	<person>
+		<name>Maria Lopez</name>
+		<age>42</age>
+	</person>
+</people>
